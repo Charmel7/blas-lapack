@@ -110,8 +110,9 @@ int main() {
 ## Documentation
 
 Detailed documentation is provided in:
-- `README_BLAS.md` for BLAS functions and conventions
-- `README_LAPACK.md` for LAPACK routines and usage
+- `./BLAS/readme_blas.md` for BLAS functions and conventions
+- `./LAPACK/readme_laplack.md` for LAPACK routines and usage
+Also available in french.
 
 ## References
 
