@@ -1,0 +1,3 @@
+.vscode/
+BLAS/*.out
+first.c
