@@ -18,7 +18,6 @@ int nrhs = 1; // Number of right hand sides
 int lda = 4; // Leading dimension of A
 int ldb = 1; // Leading dimension of b
 
-// We must have as result (solving manually):
 
 // Test of LAPACKE_dgesv
 lapack_int info = LAPACKE_dgels(LAPACK_ROW_MAJOR,'N',m,n,nrhs,A,lda,b,ldb);
